@@ -1,0 +1,6 @@
+@WriteResponseWithExpiresNeg_HostAddress = http://localhost:5226
+
+GET {{WriteResponseWithExpiresNeg_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
